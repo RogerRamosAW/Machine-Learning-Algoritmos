@@ -25,3 +25,8 @@ Este repositorio contiene mis apuntes, ejercicios del curso de **Machine Learnin
 
 ## Objetivo
 Aprender y practicar los fundamentos de **Supervised Machine Learning**, comparando diferentes algoritmos y modelos con distintos datasets.
+
+
+## Contribuidores
+Esta práctica fue construida basado en el CURSO de MACHINE LEARNING desde CERO de Adrian Cancino.
+Otros recursos como estos se pueden encontrar en su página de github [@adrian_cancino](https://github.com/Adrian-Cancino).
